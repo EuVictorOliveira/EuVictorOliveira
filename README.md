@@ -1,7 +1,18 @@
-## Olá! eu sou Victor Oliveira
+## Hello! I'm Victor Oliveira
 
-![Victor Oliveira's GitHub stats](https://github-readme-stats.vercel.app/api?username=EuVictorOliveira&show_icons=true&theme=shades-of-purple)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EuVictorOliveira&layout=compact&theme=shades-of-purple)
+## 🧠 About me
+
+- 🎓 Computer Science student at Universidade Federal da Paraíba
+- 💡  Interested in Computational mathematics and Competitive Programming
+
+## 📈 GitHub Stats
+
+<div>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EuVictorOliveira&show_icons=true&theme=shades-of-purple" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuVictorOliveira&layout=compact&theme=shades-of-purple" />
+</div>
+
+## ## 📫 Contact me
 
 <div> 
   <a href="https://instagram.com/overvictor_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
