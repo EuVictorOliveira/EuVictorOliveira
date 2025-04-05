@@ -8,8 +8,8 @@
 ## 📈 GitHub Stats
 
 <div>
-  <a href="https://github-readme-stats.vercel.app/api?username=EuVictorOliveira&show_icons=true&theme=shades-of-purple" />
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=EuVictorOliveira&layout=compact&theme=shades-of-purple" />
+  <img height="160em" width="42%" src="https://github-readme-stats.vercel.app/api?username=EuVictorOliveira&show_icons=true&theme=shades-of-purple" />
+  <img height="160em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuVictorOliveira&layout=compact&theme=shades-of-purple" />
 </div>
 
 ## 📫 Contact me
